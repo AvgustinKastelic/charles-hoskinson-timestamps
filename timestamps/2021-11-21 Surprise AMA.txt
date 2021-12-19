@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=NJcVEJ1a6eg
+00:00:00 Broadcasting live from warm sunny Colorado
+00:19:20 Why does Cardano have so many enemies. I really try to understand all the haters but honestly I can't.
+00:20:28 Stop bullshit, ur a fking scammer
+00:21:15 How can we sign up or pay to participate in the yearly bison hunt you have on your ranch? Is it open to paying people or just designated people? I thought I heard you mention this on a prior ama
+00:22:21 I have an ambitious project in mind. I want to make cardano the backbone of transactions on the site. How can I go about doing this? Where/How can | start?
+00:24:14 Any progress with your biotech company?
+00:25:08 What do you think about the Kyle Rittenhouse case?
+00:28:41 How do you make nfts private? So only token holder gets access to its content.
+00:29:19 Looking back to your Bermuda Ted Talk, what is the proudest moment since then?
+00:29:44 I'm building a Metaverse, when is Mainet out?
+00:30:29 Why does Michael Novogratz hate Cardano?
+00:32:13 Charles, what's your thoughts on rollups, ZKSync and Starkware-like solution for Cardano? Can Hydra and rollups go hand in hand? You said rollups will be big in 5-10 years but its already here
+00:35:28 How is privacy on cardano?
+00:37:48 What can the average person who doesn't understanding programming do to help Cardano succeed
+00:38:04 hydra release date?
+00:39:25 Where is the DEX Charles? We're 4 months into smartcontracts but all you do is sign useless MUAs, do AMAs and cherrypick questions other devs do 100 hour workweeks.
+00:41:42 Jordan Peterson has been having conversations on his podcast regarding the philosophical nature of crypto. Important for you to discuss the philosophy of crypto with him, he'd love your vision!
+00:42:34 What happened to third hard fork that was going to be this year?
+00:43:26 What's your favorite Pink Floyd song?
+00:43:32 Thoughts on Raoul Pal and why he seemingly fails to list Cardano as a credible crypto?
+00:44:40 Where did the name cardano came from?
+00:44:57 What do you feed your dogs
+00:45:03 Charles, vim vs neovim?
+00:45:20 Do you keep in contact with the storm x crew at all? I read you were helping them a few years back
+00:45:47 Can smart contracts replace the role of lawyers?
+00:46:45 How was your talks with my South African president Cyril Ramaphosa? Are they wanting to use Cardano for anything?
+00:47:46 Why you have royal family photo on your Tweeter profile?
+00:50:29 I am a german mathematician and hodler since 2018! I am a fan of scotch single malt whisky. Tell me please about the taste of your 38 year old whisky. Greetings from Biinde Peter.
+00:50:55 Are you working with the us gorvenment?
+00:51:22 Staking seems too good to be true. So you're saying as long as Cardano is functional people will be able to get 5% apy?
+00:51:55 Why Daniel Friedman moved to ergo?
+00:53:19 Are you and Vitalik good friends?
+00:54:06 Can utxo live together with account model? or will utxo overtake account model?
+00:55:32 Are there any good javascript libraries being developed in order to query the cardano blockchain easily from the frontend?
+00:56:21 Have you watched the new dune?
+00:58:28 eating? chicken, pork, lamb, bison, beef, or deer.
+00:59:08 Can you speak to the "cult leader" epithet you've been given and how manage the responsibility of your influence?
+01:04:10 Have you ever considered going vegan?
+01:05:11 Do you have a favourite programming language and if so why is it your favourite?
+01:06:26 What's the meaning of life?
+01:07:45 Been watching your AMA for 4 years now love them all
+01:08:10 LOGAN?
+01:08:22 Are those masks on the wall from all orgies youve been to?
+01:08:39 Does quantum computing threaten cryptographic security?
+01:09:15 How are you planning to handle damage mitigation with the inevitable onslaught of regulation?
+01:11:24 Do you have a tractror?
+01:11:47 Is IOHK struggling to find good employees? I see so many open positions
+01:12:43 What is that you are drinking?
+01:12:54 Do you keep in touch with Gavin Wood?
+01:13:18 How do IOHK earn money?
+01:13:40 IOHK to IOG ?
+01:14:09 Do you still actively work on codebase?
+01:15:21 If you allow programmers to write smart contracts in stuff other than Haskell don't you lose the benefits of Haskell?
+01:16:07 When are we starting the NWO project?
+01:16:16 How exactly are sidechains that allow programming smart contracts in imperative languages compatible with Plutus Core? Is there a compiler that translates (e.g. Python) code to Plutus Core?
+01:17:49 Is there some incentive program for people wishing to contribute to the ecosystem e.g. improving documentation or writing javascript SDKs etc?
+01:20:52 I want to integrate mental health maintenance on the Cardano blockchain. How can my Cambridge research team get to you for a meeting?
+01:22:28 Are other crypto stealing Cardano work accomplished through published peer-reviewed papers
+01:25:38 Ribeye vs Sirloin? Please answer, this is pretty urgent, I'm at the butcher and next in line!
